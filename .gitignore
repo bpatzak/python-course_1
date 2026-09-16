@@ -1,0 +1,23 @@
+# Osobní poznámky a pomocné podklady (netrackované)
+context/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtuální prostředí
+.venv/
+venv/
+
+# Výstupy vygenerované spuštěním notebooků
+myfile.txt
+measured.txt
+
+# Editory a OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
