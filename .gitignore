@@ -15,6 +15,10 @@ venv/
 # Výstupy vygenerované spuštěním notebooků
 myfile.txt
 measured.txt
+lectures/tepelna.py
+lectures/pozdrav.py
+lectures/stavba/
+lectures/pudorys.dxf
 
 # Editory a OS
 .vscode/
