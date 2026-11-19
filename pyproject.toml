@@ -4,11 +4,14 @@ version = "0.1.0"
 requires-python = ">=3.13"
 dependencies = [
     "anastruct>=1.7.1",
+    "ezdxf>=1.4.5",
+    "ifcopenshell>=0.9.0.post1",
     "ipyturtle3>=0.1.4",
     "ipywidgets>=8.1.9",
     "jupyturtle>=2024.4.1",
     "matplotlib>=3.11.2",
     "numpy>=2.5.4",
+    "pandas>=3.1.0",
     "sympy>=1.14.0",
 ]
 

@@ -1,0 +1,29 @@
+oddil,polozka,mj,mnozstvi,jedn_cena
+Zemní práce,Sejmutí ornice,m3,48.0,95
+Zemní práce,Hloubení rýh pro základy,m3,32.5,420
+Zemní práce,Odvoz zeminy,m3,60.0,310
+Zemní práce,Zásyp a hutnění,m3,18.0,260
+Základy,Podkladní beton C12/15,m3,6.2,3150
+Základy,Základové pasy C20/25,m3,24.8,3480
+Základy,Základová deska C25/30,m3,18.6,3720
+Základy,Výztuž základové desky B500B,t,1.1,32500
+Svislé konstrukce,Obvodové zdivo 440 mm,m2,185.0,1890
+Svislé konstrukce,Vnitřní nosné zdivo 240 mm,m2,96.0,1240
+Svislé konstrukce,Příčky 115 mm,m2,74.0,780
+Svislé konstrukce,Překlady,ks,22,640
+Vodorovné konstrukce,Stropní deska C25/30,m3,21.4,3890
+Vodorovné konstrukce,Výztuž stropní desky B500B,t,2.6,33800
+Vodorovné konstrukce,Bednění stropní desky,m2,118.0,420
+Vodorovné konstrukce,Železobetonové schodiště,m3,2.1,6200
+Střecha,Dřevěný krov,m3,7.8,14500
+Střecha,Tepelná izolace střechy,m2,142.0,690
+Střecha,Betonová střešní krytina,m2,156.0,820
+Střecha,Klempířské prvky,m,64.0,540
+Výplně otvorů,Plastová okna,ks,12,18500
+Výplně otvorů,Vstupní dveře,ks,1,42000
+Výplně otvorů,Vnitřní dveře,ks,9,
+Výplně otvorů,Střešní okna,ks,3,21500
+Úpravy povrchů,Vnitřní omítky,m2,520.0,380
+Úpravy povrchů,Vnější omítka,m2,195.0,640
+Úpravy povrchů,Kontaktní zateplení EPS,m2,195.0,1350
+Úpravy povrchů,Malby,m2,610.0,65

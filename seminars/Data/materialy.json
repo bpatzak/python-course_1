@@ -1,0 +1,6 @@
+{
+  "C20/25": {"f_ck": 20, "f_ck_cube": 25, "popis": "podkladní a méně namáhané konstrukce"},
+  "C25/30": {"f_ck": 25, "f_ck_cube": 30, "popis": "základy, stropní desky"},
+  "C30/37": {"f_ck": 30, "f_ck_cube": 37, "popis": "sloupy, průvlaky"},
+  "C35/45": {"f_ck": 35, "f_ck_cube": 45, "popis": "předpjaté a více namáhané prvky"}
+}

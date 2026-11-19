@@ -1,0 +1,12 @@
+{
+  "nazev": "Zatěžovací zkouška stropu 2.NP",
+  "datum": "2026-11-12",
+  "rozpeti_m": 6.0,
+  "pomer_limitu": 250,
+  "max_podil_trvaleho": 0.2,
+  "snimace": {
+    "L": "u levé podpory",
+    "S": "uprostřed rozpětí",
+    "P": "u pravé podpory"
+  }
+}

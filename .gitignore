@@ -19,6 +19,9 @@ lectures/tepelna.py
 lectures/pozdrav.py
 lectures/stavba/
 lectures/pudorys.dxf
+lectures/poznamky.txt
+lectures/vystupy/
+seminars/vystupy/
 
 # Editory a OS
 .vscode/
